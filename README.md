@@ -53,7 +53,7 @@ OpenTiktok link
 
 ![Responsive](https://github.com/IMGEORGEMOR/tiktok-frontend-clone/blob/main/src/assets/responsive.gif)
 
-![Scrollnsnap]https://github.com/IMGEORGEMOR/tiktok-frontend-clone/blob/main/src/assets/scrollandsnap.gif)
+![Scrollnsnap](https://github.com/IMGEORGEMOR/tiktok-frontend-clone/blob/main/src/assets/scrollandsnap.gif)
 
 ## Future developments
 * Add navbar with home and personal profile.
