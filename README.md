@@ -8,10 +8,10 @@ Front-end application clone of the TikTok social media for educational purposes 
 * [Setup](#setup)
 * [Features](#features)
 * [App preview](#apppreview)
-* [Future Developments](#futuredevelopments)
+* [Future developments](#futuredevelopments)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is simple tiktok clone. Swipe up/ down to play live streamed videos.
 	
 ## Technologies
 Project is created with:
@@ -42,9 +42,16 @@ The fonts have been also uploaded to the project (instead of using a CDN link) t
 
 ## App preview
 
-![Responsive]
+![Responsive](https://github.com/IMGEORGEMOR/tiktok-frontend-clone/blob/main/src/assets/responsive.gif)
 
-![Scrollnsnap]
+![Scrollnsnap]https://github.com/IMGEORGEMOR/tiktok-frontend-clone/blob/main/src/assets/scrollandsnap.gif)
+
+## Future developments
+* Add navbar with home and personal profile.
+* Change videos for personal content about app development ;)
+
+
+
 
 
 
