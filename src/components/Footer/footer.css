@@ -1,0 +1,94 @@
+.tiktok-bottom {
+    position: absolute;
+    bottom: 283px;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    position: relative;
+    height: 280px;
+    font-size: 14px;
+    z-index: 1;
+    padding-bottom: 12px;
+    background: rgb(9, 9, 9);
+    background: linear-gradient(0deg, rgba(9, 9, 9, 0.577) 54%, rgba(249, 249, 249, 0) 84%);
+    max-width: 768px;
+}
+
+.bottom-section {
+    width: 100vw;
+    max-width: 768px;
+    position: absolute;
+    bottom: 115px;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px 8px;
+}
+
+.bottom-left {
+    max-width: 274px;
+    color: white;
+}
+
+.bottom-left>a {
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    margin: 0px 0px 8px;
+}
+
+.bottom-left>p {
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 300;
+    margin: 8px 0px;
+}
+
+.bottom-left>p>a {
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+    margin: 8px 0px;
+}
+
+.music-box {
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+/*record spinning*/
+.bottom-album {
+    background: #575757;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 105px 16px 0px 0px;
+
+
+
+}
+
+.footer-record {
+    animation: spinTheRecord infinite 5s linear;
+    height: 35px;
+    width: 35px;
+    filter: invert(1);
+}
+
+@keyframes spinTheRecord {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}

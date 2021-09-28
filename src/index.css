@@ -1,13 +1,39 @@
+*, *:before, *:after{
+    box-sizing: inherit;
+    margin: 0;
+}
+
+@font-face {
+    font-family: "Proxima nova";
+    font-weight: 400;
+    src: url("./assets/Proxima-Nova-Regular.woff2") format("woff2")
+    
+}
+
+@font-face {
+    font-family: "Proxima nova";
+    font-weight: 600;
+    src: url("./assets/Proxima-Nova-Semibold.woff2") format("woff2")
+}
+
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    background: black;
+    margin: 0;
+    font-family: "Proxima nova", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
 }
+
+html{
+    margin: 0;
+    box-sizing: border-box;
+}
+
