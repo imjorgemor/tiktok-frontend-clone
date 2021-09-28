@@ -7,8 +7,9 @@ Front-end application clone of the TikTok social media for educational purposes 
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
-* [App preview](#apppreview)
-* [Future developments](#futuredevelopments)
+* [React components](#React-components)
+* [App preview](#app-preview)
+* [Future developments](#future-developments)
 
 ## General info
 This project is simple tiktok clone. Swipe up/ down to play live streamed videos.
@@ -40,6 +41,14 @@ Using relative withs and max-widths css properties together with FLEXBOX allowed
 ### Performance practices
 The fonts have been also uploaded to the project (instead of using a CDN link) to improve performance of the project.
 
+## React components
+```
+Video
+Sidebar
+Footer
+OpenTiktok link
+```
+
 ## App preview
 
 ![Responsive](https://github.com/IMGEORGEMOR/tiktok-frontend-clone/blob/main/src/assets/responsive.gif)
@@ -49,6 +58,8 @@ The fonts have been also uploaded to the project (instead of using a CDN link) t
 ## Future developments
 * Add navbar with home and personal profile.
 * Change videos for personal content about app development ;)
+
+
 
 
 
