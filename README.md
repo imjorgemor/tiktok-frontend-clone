@@ -50,9 +50,10 @@ OpenTiktok links
 ```
 
 ## App preview
-
+### Responsive design
 ![Responsive](https://github.com/IMGEORGEMOR/tiktok-frontend-clone/blob/main/src/assets/responsive.gif)
 
+### Scroll'n snapping
 ![Scrollnsnap](https://github.com/IMGEORGEMOR/tiktok-frontend-clone/blob/main/src/assets/scrollandsnap.gif)
 
 ## Future developments
