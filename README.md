@@ -46,7 +46,7 @@ The fonts have been also uploaded to the project (instead of using a CDN link) t
 Video
 Sidebar
 Footer
-OpenTiktok link
+OpenTiktok links
 ```
 
 ## App preview
@@ -56,18 +56,8 @@ OpenTiktok link
 ![Scrollnsnap](https://github.com/IMGEORGEMOR/tiktok-frontend-clone/blob/main/src/assets/scrollandsnap.gif)
 
 ## Future developments
+* Add welcome page
+* Add tiktok loading
 * Add navbar with home and personal profile.
 * Change videos for personal content about app development ;)
-
-
-
-
-
-
-
-
-
-
-
-
 
