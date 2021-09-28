@@ -14,6 +14,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "react-ticker": "^1.2.2",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
@@ -39,5 +40,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Front-end application clone of the TikTok social media clone for educational purposes developed with React js.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IMGEORGEMOR/tiktok-frontend-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IMGEORGEMOR/tiktok-frontend-clone/issues"
+  },
+  "homepage": "https://github.com/IMGEORGEMOR/tiktok-frontend-clone#readme"
 }
